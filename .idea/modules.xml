@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/SpringDemos.iml" filepath="$PROJECT_DIR$/.idea/SpringDemos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basic_api/basic_api.iml" filepath="$PROJECT_DIR$/basic_api/basic_api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basic_api_v2/basic_api_v2.iml" filepath="$PROJECT_DIR$/basic_api_v2/basic_api_v2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basic_api_v3/basic_api_v3.iml" filepath="$PROJECT_DIR$/basic_api_v3/basic_api_v3.iml" />
+    </modules>
+  </component>
+</project>
